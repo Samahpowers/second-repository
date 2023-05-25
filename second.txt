@@ -1,1 +1,2 @@
 File created too be send to the server
+Revert is or can be done one at a time

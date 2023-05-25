@@ -1,0 +1,2 @@
+To check log we use cl
+git log --pretty=one
